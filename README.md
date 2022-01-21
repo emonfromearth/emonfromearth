@@ -77,5 +77,5 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ----------
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emonfromearth)
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=emonfromearth&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emonfromearth)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=emonfromearth&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact)
