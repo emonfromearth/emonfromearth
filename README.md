@@ -1,7 +1,7 @@
-### Hi there, I am Sabbir Hosen Emon 👋
-- BSc in Physcis (1/3 completed) from Brac University
-- Studying BSc in CS (AI and ML) at University of London
-
+<h1 align="center">Hi 👋, I am Sabbir Hosen Emon</h1>
+<h3 align="center">Studying BSc in CS (AI and ML) at University of London</h3>
+<h3 align="center">BSc in Physcis (1/3 completed) from Brac University</h3>
+<br>
 
 - 🔭 I’m currently working on some MERN Stack Projects
 - 🌱 I’m currently learning System Design and Design Patterns
