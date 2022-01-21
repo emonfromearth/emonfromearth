@@ -2,6 +2,17 @@
 <h3 align="center">Studying BSc in CS (AI and ML) at University of London</h3>
 <h3 align="center">BSc in Physcis (1/3 completed) from Brac University</h3>
 <br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/emonfromearth/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="emonfromearth" height="30" width="40" /></a>
+  <a href="https://twitter.com/emonfromearth" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="emonfromearth" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/emonfromearth" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="emonfromearth" height="30" width="40" /></a>
+</p>
 
 - 🔭 I’m currently working on some MERN Stack Projects
 - 🌱 I’m currently learning System Design and Design Patterns
@@ -10,21 +21,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a Human.
 
-<br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/emonfromearth/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="emonfromearth" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/emonfromearth" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="emonfromearth" height="30" width="40" /></a>
- <a href="https://twitter.com/emonfromearth" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="emonfromearth" height="30" width="40" /></a>
-</p>
-
-<br>
 
 ## Languages I love
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
