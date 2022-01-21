@@ -77,5 +77,5 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ----------
-![Emon's GitHub stats](https://github-readme-stats.vercel.app/api?username=emonfromearth)
 ![Emon's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=emonfromearth)
+![Emon's GitHub stats](https://github-readme-stats.vercel.app/api?username=emonfromearth)
