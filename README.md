@@ -13,6 +13,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="emonfromearth" height="30" width="40" /></a>
 </p>
+<hr>
 
 - 🔭 I’m currently working on some MERN Stack Projects
 - 🌱 I’m currently learning System Design and Design Patterns
