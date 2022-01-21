@@ -10,7 +10,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="emonfromearth" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/emonfromearth" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribble.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="emonfromearth" height="30" width="40" /></a>
 </p>
 <hr>
