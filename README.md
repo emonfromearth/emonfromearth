@@ -15,12 +15,12 @@
 </p>
 <hr>
 
-- 🔭 I’m currently working on some MERN Stack Projects
+- 🔭 I’m currently working on some MERN Stack Projects and Web3.0
 - 🌱 I’m currently learning System Design and Design Patterns
-- 💬 Ask me about Anything
-- 📫 How to reach me: emon@omega.ac
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I am a Human.
+- 📫 How to reach me: emonfromearth@gmail.com
+- 🌱 Personal website: https://emonfromearth.com/
+- 🌱 My company website: http://solution.omega.ac/
+- ⚡ Fun fact: I am a Human, not a Robot.
 
 ### Some of projects
 1. Blogsite using Django - https://bortika.herokuapp.com/
