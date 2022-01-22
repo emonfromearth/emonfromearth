@@ -22,6 +22,10 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a Human.
 
+### Some of projects
+1. Blogsite using Django - https://bortika.herokuapp.com/
+2. Live updated Movie Database website - https://movies-emonfromearth.netlify.app/
+3. Social Media site - https://socialmedia-emonfromearth.netlify.app/
 
 ## Languages I love
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
