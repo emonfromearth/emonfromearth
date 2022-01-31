@@ -25,7 +25,7 @@
 ### Some of my projects
 1. Blogsite using Django - https://bortika.herokuapp.com/
 2. Live updated Movie Database website - https://movies-emonfromearth.netlify.app/
-3. Full Stack Mern Social Media site - https://socialmedia-emonfromearth.netlify.app/
+3. Full Stack Mern Social Media site (on proccess) - https://socialmedia-emonfromearth.netlify.app/
 4. PERN Stack todo - https://perntodo-emonfromearth.netlify.app/
 
 ## Languages I love
