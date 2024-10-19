@@ -1,5 +1,5 @@
 <h1 align="center">I am Sabbir Hosen Emon</h1>
-<h3 align="center">MBA in University of Illinois (running)</h3>
+<h3 align="center">MBA from University of Illinois (running)</h3>
 <h3 align="center">BSc in CS (AI and ML) at University of London</h3>
 <h3 align="center">BSc in Physcis (1/2 completed) from Brac University</h3>
 <br>
