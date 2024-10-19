@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I am Sabbir Hosen Emon</h1>
-<h3 align="center">Studying BSc in CS (AI and ML) at University of London</h3>
+<h1 align="center">I am Sabbir Hosen Emon</h1>
+<h3 align="center">MBA in University of Illinois (running)</h3>
+<h3 align="center">BSc in CS (AI and ML) at University of London</h3>
 <h3 align="center">BSc in Physcis (1/2 completed) from Brac University</h3>
 <br>
 <p align="center">
@@ -14,19 +15,6 @@
       alt="sabbirhosenemon" height="30" width="40" /></a>
 </p>
 <hr>
-
-- 🔭 I’m currently working on some MERN Stack Projects and Web3.0
-- 🌱 I’m currently learning System Design and Design Patterns
-- 📫 How to reach me: emonfromearth@gmail.com
-- 🌱 Personal website: https://emonfromearth.com/
-- 🌱 My company website: http://solution.omega.ac/
-- ⚡ Fun fact: I am a Human, not a Robot.
-
-### Some of my projects
-1. Blogsite using Django - https://bortika.herokuapp.com/
-2. Live updated Movie Database website - https://movies-emonfromearth.netlify.app/
-3. Full Stack Mern Social Media site (on proccess) - https://socialmedia-emonfromearth.netlify.app/
-4. PERN Stack todo - https://perntodo-emonfromearth.netlify.app/
 
 ## Languages I love
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
